@@ -2140,10 +2140,11 @@ a.logo:hover{
 	background: #111;
 }
 .section-text{
-	font-size: 15px;
+	font-size: 18px;
 	font-weight: 300;
 	color: #777;
 	line-height: 1.7;
+	text-align: justify;
 }
 .section-text blockquote{
     margin-top: -5px;
