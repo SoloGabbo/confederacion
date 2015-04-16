@@ -1278,14 +1278,13 @@ a.btn-mod:focus{
 .nav-logo-wrap .logo{
 	display: table-cell;
 	vertical-align: middle;
-	max-width: 120px;
-    height: 75px;
-    
-    -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);  
-    -moz-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000); 
-    -o-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
-    -ms-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000); 
-    transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+	max-width: 300px;
+	height: 150px;
+	-webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+	-moz-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+	-o-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+	-ms-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+	transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
 }
 .nav-logo-wrap .logo img{
 	max-height: 100%;
